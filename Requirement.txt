@@ -1,0 +1,5 @@
+Flask==1.1.1
+sckit.learn==0.22.1
+pandas==1.0.1
+joblib==0.14.1
+gunicorn==19.9.0
